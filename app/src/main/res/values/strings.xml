@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sms_receiver</string>
+    <string name="inbox">Inbox</string>
+</resources>
